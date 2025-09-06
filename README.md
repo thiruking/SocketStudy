@@ -92,8 +92,10 @@ server_socket.close()
 ```
 
 ## OUTPUT:
-![alt text](../client.png)
-![alt text](../server.png)
+<img width="1051" height="400" alt="image" src="https://github.com/user-attachments/assets/cd149317-6e39-4306-9f57-a9eb5811c152" />
+<img width="1017" height="377" alt="image" src="https://github.com/user-attachments/assets/b03d8e9b-1460-4af8-aab5-155c63f3d4a6" />
+
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
